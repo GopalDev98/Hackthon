@@ -1,4 +1,3 @@
-import React from 'react';
 import { Link } from 'react-router-dom';
 import { CreditCard, Clock, Shield, Zap, CheckCircle, TrendingUp } from 'lucide-react';
 import { Button } from '@/components/ui/Button';

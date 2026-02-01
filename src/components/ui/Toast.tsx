@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { X, CheckCircle, XCircle, Info, AlertTriangle } from 'lucide-react';
 import { useToast, Toast as ToastType } from '@/context/ToastContext';
 import { cn } from '@/lib/utils';
